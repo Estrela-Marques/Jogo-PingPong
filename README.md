@@ -7,8 +7,7 @@
 
 ##  Tecnologias
 
-- HTML;
-- JavaScript;
-- CSS.
+- JavaScript.
+
 
 
